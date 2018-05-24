@@ -3,7 +3,7 @@
  * 日期：2017/4/17
  **/
 
-let app1 = new Vue({
+const app1 = new Vue({
 	el: '#app-1',
 	data: {
 		message: '这是我希望在该标签输出的内容'
